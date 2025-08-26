@@ -1,4 +1,4 @@
-//! Recursion
+//! Recursion (Direct Recursion)
 
 //* Normal Recursion
 let value = 0;
@@ -9,7 +9,6 @@ const recursion = (x) => {
     recursion(x + 1);
   }
 };
-
 // recursion(value); // --> 1 - 10 tak print
 
 //* Factorial Recursion => 5! -> 5*4*3*2*1 = 120
