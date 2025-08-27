@@ -14,5 +14,4 @@ function buyMore(x) {
   totalBanana++;
   buyBanana(x - 100);
 }
-
 buyBanana(money);
