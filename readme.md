@@ -22,17 +22,4 @@ To build a **solid foundation in DSA** that will help me in:
 - Cracking **frontend developer interviews**
 - Writing **optimized and clean code**
 
-## 🔥 Progress
-
-This repo will keep updating as I move forward step by step:
-
-1. Arrays ✔️
-2. Recursion ✔️
-3. Stack & Queue 🚧
-4. Strings 🚧
-5. Hash Tables, Maps, Sets ⏭️
-6. Linked List, Trees, Graphs ⏭️
-
----
-
 📌 _This is my learning-in-public journey. Feel free to explore and learn along with me._
