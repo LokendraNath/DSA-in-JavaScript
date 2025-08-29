@@ -2,43 +2,42 @@
 
 ---
 
-## ✅ Must Learn (Frontend + Interview ke liye zaroori videos)
+## Must Learn (Frontend + Interview ke liye zaroori videos)
 
-1. Data Structure in Hindi
-2. Array traversing and accessing in Data Structure (JS)
-3. Insert element in array (JS)
-4. Delete element in array (JS)
-5. Search element in array (JS)
-6. Merge Two arrays manually (JS)
-7. Merge Two arrays with while loop (JS)
-8. Algorithm Complexity – Time and Space complexity  
-   8.1 Asymptotic analysis and notation
-9. Array Sorting in JS
-10. Recursion in Data Structure (JS)
-11. In Direct Recursion (JS)
-12. Head and Tail Recursion (JS)
-13. Reverse array with Recursion (JS)
-14. Stack Data Structure – Push and Pop operations (JS)
-15. Stack Data Structure with Inputs (JS)
-16. Reverse String with Stack (JS)
-17. Stack with class in JS
-18. Queue in JS
-19. Front and Rear operations in Queue (JS)
-20. Linear Search in JS
-21. Binary Search – Iterative approach (JS)
-22. Recursive Binary Search in JS
-23. Selection Sort in JS
-24. Descending Order Sorting with Selection Sort (JS)
-25. Insertion Sort in JS
-26. How to Build Logical Skills (JS)
-27. Check Strings are Anagram in JS
-28. Check String is Palindrome or not in JS
-29. Maximum occurring character in string (JS)
-30. Object / Hash Table in Data Structure (JS)
-31. Map Data Structure in JS
-32. Set Data Structure in JS
-33. JavaScript Interview Questions – Top 100 Output Questions
-34. JavaScript String Interview Questions
+1. Data Structure in Hindi ✅
+2. Array traversing and accessing in Data Structure (JS) ✅
+3. Insert element in array (JS) ✅
+4. Delete element in array (JS) ✅
+5. Search element in array (JS) ✅
+6. Merge Two arrays manually (JS) ✅
+7. Merge Two arrays with while loop (JS) ✅
+8. Algorithm Complexity – Time and Space complexity ✅
+   8.1 Asymptotic analysis and notation ✅
+9. Array Sorting in JS ✅
+10. Recursion in Data Structure (JS) ✅
+11. In Direct Recursion (JS) ✅
+12. Head and Tail Recursion (JS) ✅
+13. Reverse array with Recursion (JS) ✅
+14. Stack Data Structure – Push and Pop operations (JS) ✅
+15. Reverse String with Stack (JS) ✅
+16. Stack with class in JS
+17. Queue in JS
+18. Front and Rear operations in Queue (JS)
+19. Linear Search in JS
+20. Binary Search – Iterative approach (JS)
+21. Recursive Binary Search in JS
+22. Selection Sort in JS
+23. Descending Order Sorting with Selection Sort (JS)
+24. Insertion Sort in JS
+25. How to Build Logical Skills (JS)
+26. Check Strings are Anagram in JS
+27. Check String is Palindrome or not in JS
+28. Maximum occurring character in string (JS)
+29. Object / Hash Table in Data Structure (JS)
+30. Map Data Structure in JS
+31. Set Data Structure in JS
+32. JavaScript Interview Questions – Top 100 Output Questions
+33. JavaScript String Interview Questions
 
 ---
 
