@@ -1,4 +1,6 @@
-// Push & Pop Method
+// Stack Data Strucure
+
+// Push & Pop
 
 let arr = []; // <-- Ye Khali Stack hai
 let currentSize = arr.length;
@@ -23,15 +25,5 @@ function Pop() {
 }
 
 Push(20);
-Push(56);
-Push(35);
-Push(76);
-Push(87);
-Push(34); // <== Cart Is Full
 Pop();
-Pop();
-Pop();
-Pop();
-Pop();
-Pop(); // <== Cart Is Empty
 console.log(arr);
